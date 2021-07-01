@@ -13,4 +13,4 @@ EDA using Streamlit
 
 ## Example
 
-![Alt Text](/Video/sample.gif)
+![Alt Text](VIdeo/sample.gif)
